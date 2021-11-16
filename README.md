@@ -1,1 +1,1 @@
-#### Challenge by <a href="https://www.instagram.com/rocketseat_oficial/">@Rocketseat</a>
+#### Challenge by <a target='_blank' href="https://www.instagram.com/rocketseat_oficial/">@Rocketseat</a>
